@@ -1,0 +1,5 @@
+Em estrutura de dados, temos dois tipos de funcionalidades:
+1. aquelas fornecidas pela linguagem (buit-in)
+2. Outras, constrúidas pelo desenvolvedor (custom)
+
+Isso é importante visto que as linguagens não são capazes de suprir todas as demandas que surgem durante 
