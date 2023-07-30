@@ -1,2 +1,2 @@
 # Fatec-estrutura-de-dados
-Conteúdo da matéria de Estrutura de Dados ministrada na Fatec Franca
+Conteúdo lecionado na matéria de Estrutura de Dados da Fatec Franca
